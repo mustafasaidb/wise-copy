@@ -1,0 +1,49 @@
+.missionContainer {
+  width: 75%;
+  margin-top: -150px;
+  height: 650px;
+  border-radius: 50px;
+  background-color: #163300;
+}
+
+.image {
+  position: relative;
+  top: -200px;
+}
+
+.missionHeader {
+  position: relative;
+  top: -400px;
+  font-size: 80px;
+  width: 70%;
+  color: #9fe870;
+}
+
+.missionParagraph {
+  color: white;
+  font-family: "Inter";
+  position: relative;
+  opacity: 1;
+  top: -400px;
+  width: 50%;
+}
+
+.missionBtn {
+  position: relative;
+  top: -380px;
+  background-color: #9fe870;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 300px;
+  border-radius: 25px;
+  border: none;
+  transition: 0.3 ease;
+  color: #163300;
+  font-size: 20px;
+}
+
+.missionBtn:hover {
+  cursor: pointer;
+  transition: 0.3 ease;
+  background-color: #ace18d;
+}
