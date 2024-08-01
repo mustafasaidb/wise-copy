@@ -19,7 +19,7 @@ function Main() {
                     </div>
                 </div>
                 <div className="col-2">
-                    <Image src={gif} />
+                    <Image src={gif} alt="resim" />
                 </div>
             </div>
             <div className='line'></div>
