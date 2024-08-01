@@ -12,7 +12,7 @@ function Security() {
                     <button className='securityBtn'>How we keep your money safe.</button>
                 </div>
                 <div className="col-right">
-                    <img className='securityImage' src="https://wise.com/web-art/assets/illustrations/lock-large@2x.webp" />
+                    <img className='securityImage' src="https://wise.com/web-art/assets/illustrations/lock-large@2x.webp" alt="resim" />
                 </div>
             </div>
         </div>
